@@ -1,12 +1,17 @@
 body {
   background: pink;
+  padding: 5px;
+  margin: 50px;
+  font-family: verdana;
 }
 .larger-text {
-  font-size: 32px;
+  font-size: 52px;
   color: white;
 }
 div {
-  color: orange;
+  color: salmon;
   background: white;
-  width:1500px;
+  width:3000px;
+}
+li {display:inline;
 }
