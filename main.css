@@ -15,3 +15,7 @@ div {
 }
 li {display:inline;
 }
+a {
+  color: salmon;
+  text-decoration: none;
+}
