@@ -1,0 +1,12 @@
+body {
+  background: pink;
+}
+.larger-text {
+  font-size: 32px;
+  color: white;
+}
+div {
+  color: orange;
+  background: white;
+  width:1500px;
+}
