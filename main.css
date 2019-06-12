@@ -1,8 +1,9 @@
 body {
-  background-image: linear-gradient(to right,#ff00cc,#ff5e00);
+  background-image: linear-gradient(to right,#e30181,#fe5e01);
   font-family: 'Rubik', sans-serif;
   height:auto;
   width:auto;
+  margin: 0px;
 }
 li {
   display:inline;
@@ -38,10 +39,6 @@ header {
   font-size: 12px;
   margin-left: 0;
 }
-.img {
-  width: 18px;
-  padding-right: 0px;
-}
 .centered-container {
   width: 100%;
   margin: auto;
@@ -61,11 +58,24 @@ header {
   zoom: 1;
 }
 .three-shoes {
-  font-size: 8px;
-  display: inline;
-  background-color: white;
+  font-size: 12px;
+  display: inline-block;
+  width: 33%;
+  margin: 0px;
 }
 .shoes {
   display: inline-block;
   width: auto;
+}
+.maincontent {
+  float: right;
+}
+p {
+  color: white;
+}
+.sub {
+  color: #BD0101;
+}
+h1 {
+  color:white;
 }
