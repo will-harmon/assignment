@@ -7,12 +7,10 @@ body {
 }
 li {
   display:inline;
-  margin-left: 5px;
 }
 a {
   color: salmon;
   text-decoration: none;
-  margin-left:0px;
   text-align: left;
 }
 
@@ -30,15 +28,14 @@ header {
   margin-left: 0px;
   float: left;
   background: white;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: bold;
 }
 .top-right {
-  margin-right: 15px;
+  margin-right: 0px;
   text-align: right;
   background: white;
-  font-size: 12px;
-  margin-left: 0;
+  font-size: 18px;
 }
 .bottom {
   margin: auto;
@@ -115,4 +112,8 @@ button:focus {
   height: 30px;
   text-align: center;
   padding-top: 10px;
+}
+a:hover {
+  color: #BD0101;
+  border-bottom:solid 3px #ffe8e2;
 }
