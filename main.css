@@ -44,6 +44,7 @@ header {
   margin: auto;
   padding: 0;
   text-align: center;
+  margin-right: 0px;
 }
 .bottom {
   margin: auto;
@@ -67,9 +68,6 @@ header {
   display: inline-block;
   width: auto;
 }
-.maincontent {
-  float: right;
-}
 p {
   color: white;
 }
@@ -78,4 +76,20 @@ p {
 }
 h1 {
   color:white;
+}
+.mc-border {
+  padding-top: 150px;
+}
+.mc-background {
+  background-color: white;
+}
+.container {
+  text-align: center;
+  border: white;
+}
+.btn {
+  background: white;
+  font-size:14px;
+  color: salmon;
+  cursor:pointer;
 }
