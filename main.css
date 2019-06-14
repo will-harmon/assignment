@@ -115,5 +115,12 @@ button:focus {
 }
 a:hover {
   color: #BD0101;
-  border-bottom:solid 3px #ffe8e2;
+  border-bottom: 3px solid #ffe8e2;
+}
+.buy {
+  padding: 18px;
+  text-transform: uppercase;
+}
+.tabheader {
+  border-bottom: 1px solid salmon;
 }
